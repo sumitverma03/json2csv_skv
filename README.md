@@ -2,7 +2,7 @@
 
 The code has moved to a [new home](https://github.com/juanjoDiaz/json2csv).
 
-This repository stays as a the historic home of `json2csv` up until v6.
+This repository stays as a the historic home of `json2csv` up until v2.
 From v6, the library has been broken into smaller libraries that are now published to NPM independently:
 
 * **[Plainjs](https://www.npmjs.com/package/@json2csv/plainjs):** Includes the `Parser` API and a new `StreamParser` API which doesn't the conversion in a streaming fashion in pure js.
